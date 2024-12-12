@@ -1,0 +1,49 @@
+# CSS Variables
+
+:root {
+  --white: #ffffff;
+  --dark-gunmetal: #212529;
+  --platinum: #DEE2E6;
+}
+
+# Container Media Query
+.container {
+  padding: 0 15px;
+  margin: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+# Text
+
+Hello
+I’m Ridho
+Freelancer Web Developer
+
+About
+Me
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique elit nec malesuada tincidunt. Pellentesque lobortis metus quis ipsum mattis, vitae laoreet est posuere. Mauris bibendum eros massa, sit amet tempor sem lobortis non. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique elit nec malesuada tincidunt. Pellentesque lobortis.
+
+Web  Development
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique elit nec 
+
+Learn HTML
+Lorem ipsum dolor sit amet, consecte adipiscing elit. Proin tristique elit nec. lorem ipsum 
+
+@RidhoSatriawan
